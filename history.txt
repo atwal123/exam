@@ -1,0 +1,239 @@
+   84  mkdir git
+   86  cd git
+   87  git clone https://github.com/atwal123/bcit.git
+   94  git status
+   95  git add index.html
+   96  git commit -m "Added index.html"
+   97  git push origin master 
+   99  git status
+  100  git add myfile.html
+  101  git commit -m "added myfile.html"
+  102  git push origin master 
+  106  git status
+  107  git add myfile.html
+  108  git commit -m "edit my file"
+  109  git push origin master
+  110  git push origin master
+  115  history | grep "git"
+  146  git clone mytext.html
+  147  git add [mytext.html]
+  173  mkdir git
+  179  mkdir git
+  180  cp /c/Users/A00930358/index.html /c/Users/A00930358/Desktop/git/
+  181  cp /c/Users/A00930358/index.html /c/Users/A00930358/Desktop/git/index1.html
+  182  cp /c/Users/A00930358/index.html /c/Users/A00930358/Desktop/git/index2.html
+  183  cp /c/Users/A00930358/index.html /c/Users/A00930358/Desktop/git/index3.html
+  186  cp /c/Users/A00930358/Desktop/style.css /c/Users/A00930358/Desktop/git
+  187  cp /c/Users/A00930358/Desktop/js.js /c/Users/A00930358/Desktop/git
+  189  cd git
+  190  git clone https://github.com/atwal123/takehome.git
+  195  git add js
+  196  git commit -m
+  197  git commit -m"added js"
+  198  git push origin master
+  199  git add img
+  200  git commit -m"added img"
+  201  git push origin master
+  202  git add css
+  203  git commit -m"added css"
+  204  git push origin master
+  206  cp /c/Users/A00930358/Desktop/git/index1.html takehome/
+  207  cp /c/Users/A00930358/Desktop/git/index1.html /c/Users/A00930358/Desktop/git/takehome
+  208  cp /c/Users/A00930358/Desktop/git/index2.html /c/Users/A00930358/Desktop/git/takehome
+  209  cp /c/Users/A00930358/Desktop/git/index3.html /c/Users/A00930358/Desktop/git/takehome
+  218  git status
+  219  git add css js index1.html index2.html index3.html
+  220  git status
+  221  git commit -m "added everything"
+  222  git pull --no-edit
+  223  git push origin master
+  226  git add index1.html
+  227  git commit -m"changed title"
+  228  git pull --no-edit
+  229  git push origin master
+  230  git branch v0.0.1
+  231  git checkout v0.0.1
+  233  git commit -m "deleted"
+  234  git push origin v0.0.1
+  235  git status
+  241  mkdir git
+  242  cd ./git
+  243  cp /c/Users/a00930358/index.html git/
+  244  cp /c/Users/a00930358/index.html /c/Users/a00930358/Desktop/git
+  245  cp /c/Users/a00930358/index1.html /c/Users/a00930358/Desktop/git
+  246  cp /c/Users/a00930358/index.html /c/Users/a00930358/Desktop/git/index1.html
+  247  cp /c/Users/a00930358/index.html /c/Users/a00930358/Desktop/git/index2.html
+  248  cp /c/Users/a00930358/index.html /c/Users/a00930358/Desktop/git/index3.html
+  256  cd ./git
+  257  clone https://github.com/atwal123/practice.git
+  258  git clone https://github.com/atwal123/practice.git
+  262  git add js img css
+  263  git commit
+  264  git add js
+  265  git commit-m"added js"
+  266  git commit -m"added js"
+  267  git add img
+  268  git commmit -m"added img"
+  269  git commit -m"added img"
+  270  git add css
+  271  git commit -m"added css"
+  272  git push origin master
+  273  git push origin master
+  274  cp /c/Users/a00930358/Desktop/git/index1.html /c/Users//a00930358/Desktop/git/practice/
+  275  cp /c/Users/a00930358/Desktop/git/index2.html /c/Users//a00930358/Desktop/git/practice/
+  276  cp /c/Users/a00930358/Desktop/git/index3.html /c/Users//a00930358/Desktop/git/practice/
+  277  cd /c/Users/a00930358/Desktop/git/
+  280  mv /c/Users/a00930358/Desktop/style.css /c/Users/a00930358/Desktop/git/practice/css
+  281  mv /c/Users/a00930358/Desktop/js.js /c/Users/a00930358/Desktop/git/practice/js
+  282  git status
+  283  git status
+  284  ./git
+  285  cd ./git
+  286  git status
+  287  git status
+  289  git status
+  290  git add css js index1.html index2.html index3.html
+  291  git commit -m"added everything"
+  292  git pull --no-edit
+  293  git push origin master
+  296  git add index1.html
+  297  git commit -m"edit index1"
+  298  git pull --no-edit
+  299  git push origin master
+  300  git branch v0.0.1
+  301  git checkout v0.0.1
+  302  git rm index2.html index3.html
+  303  git add
+  304  git add .
+  305  git commit -m "removed index 2 and 3"
+  306  git push origin v0.0.1
+  316  mkdir git
+  317  cp /c/Users/a00930358/index.html /c/Users/a00930358/Desktop/git
+  318  cp /c/Users/a00930358/index.html /c/Users/a00930358/Desktop/git/index1.html
+  319  cp /c/Users/a00930358/index.html /c/Users/a00930358/Desktop/git/index2.html
+  320  cp /c/Users/a00930358/index.html /c/Users/a00930358/Desktop/git/index3.html
+  322  cp /c/Users/a00930358/Desktop/style.css /c/Users/a00930358/Desktop/git
+  323  cp /c/Users/a00930358/Desktop/js.js /c/Users/a00930358/Desktop/git
+  325  cd ./git
+  326  git clone 
+  327    320  cp /c/Users/a00930358/index.html /c/Users/a00930358/Desktop/git/index3.html
+  328  git clone https://github.com/atwal123/lab.git
+  331  git add js img css
+  332  git commit -m "made directories"
+  333  git push origin master
+  334  git push origin master
+  342  git add js img css 
+  343  git commit -m "added directories"
+  344  git push origin master
+  346  cp /c/Users/a00930358/Desktop/git/index1.html /c/Users/a00930358/Desktop/git/lab
+  347  cp /c/Users/a00930358/Desktop/git/index2.html /c/Users/a00930358/Desktop/git/lab
+  348  cp /c/Users/a00930358/Desktop/git/index3.html /c/Users/a00930358/Desktop/git/lab
+  349  cd /c/Users/a00930358/Desktop/git
+  351  cd /c/Users/a00930358/Desktop/git/style.css /c/Users/a00930358/Desktop/git/lab/css
+  352  mv /c/Users/a00930358/Desktop/git/style.css /c/Users/a00930358/Desktop/git/lab/css
+  353  mv /c/Users/a00930358/Desktop/git/js.js /c/Users/a00930358/Desktop/git/lab/js
+  354  git status
+  357  git status
+  358  git add .
+  359  git commit -m "moved files"
+  361  git pull --no-edit
+  362  git push origin master
+  365  git add .
+  366  git commit -m "added title"
+  367  git pull --no-edit
+  368  git push origin master
+  369  git branch v0.0.1
+  370  git checkout v0.0.1
+  371  git rm index2.html index3.html
+  372  git add .
+  373  git commit -m "removed 2 files"
+  374  git push origin v0.0.1
+  376  git checkout master
+  379  cp /c/Users/a00930358/Desktop/*.PNG /c/Users/a00930358/Desktop/git/lab/img
+  380  cp /c/Users/a00930358/Desktop/*.PNG /c/Users/a00930358/Desktop/git/lab/img
+  381  git add .
+  382  git commit -m "added pictures"
+  383  git pull --no-edit
+  384  git push origin master
+  385  git checkout v0.0.1
+  386  git merge master
+  388  git add .
+  389  git commit -m "added more things"
+  390  git pull --no-edit
+  391  git push origin v0.0.1
+  393  /c/Users/a00930358/Desktop/git
+  394  /c/Users/a00930358/Desktop/git/
+  395  cd /c/Users/a00930358/Desktop/git/
+  401  cp -r git backup
+  408  mv images.txt ./git/lab
+  409  mv html.txt ./git/lab
+  410  cd git
+  412  git add .
+  413  git commit -m "added some things"
+  414  git pull --no-edit
+  415  git push origin master
+  418  git checkout master
+  419  git add .
+  420  git commit -m "added stuff"
+  421  git pull --no-edit
+  422  git push origin master
+  444  mkdir git
+  445  cd /c/Users/a00930358/Desktop/git
+  446  git clone https://github.com/atwal123/exam.git
+  447  cp /c/Users/a00930358/exam /c/Users/a00930459/desktop/git
+  450  git add .
+  451  git add
+  452  git add  .
+  453  git commit -m"removed style.css js.js"
+  454  git add style.css
+  455  git push origin master
+  456  cd /c/Users/a00930358/Desktop/git/exam
+  457  git add .
+  458  git commit -m "removed files"
+  459  git push origin master
+  460  git push origin master
+  462  git push origin master
+  489  mkdir git
+  490  cd /c/Users/a00930358/Desktop/git
+  491  clone https://github.com/atwal123/exam.git
+  492  git clone https://github.com/atwal123/exam.git 
+  493  cp /c/Users/a00930358/Desktop/exam/css /c/Users/a00930358/Desktop/git/exam
+  494  cp /c/Users/a00930358/Documents/exam/css /c/Users/a00930358/Desktop/git/exam
+  495  cp /c/Users/a00930358/Documents/exam /c/Users/a00930358/Desktop/git/exam
+  496  cp -r /c/Users/a00930358/Documents/exam /c/Users/a00930358/Desktop/git/exam
+  497  cd /c/Users/a00930358/Desktop/git/exam/exam
+  499  git add css js
+  500  git commit -m "moved folder
+git commit -m "moved folder"
+  501  git commmit -m "moved folder"
+  502  git commit -m "moved folder"
+  503  git push origin master
+  511  git branch v2.0
+  512  cd /c/Users/a00930358/Desktop/git
+  513  git branch v2.0
+  515  git branch v2.0
+  516  git checkout v2.0
+  517  cd /c/Users/a00930358/Desktop/git/exam
+  518  git branch v2.0
+  519  git checkout v2.0
+  520  git push v2.0
+  521  git push origin v2.0
+  522  git checkout master
+  524  git add .
+  525  git commit -m "edited index.html"
+  526  git push origin master
+  527  git checkout v2.0
+  528  git merge master
+  529  git push origin master
+  530  cd /c/Users/a00930358/Desktop/git/exam
+  532  git branch v3.0
+  533  git checkout v3.0
+  534  git push origin v3.0
+  535  git checkout master
+  537  git add .
+  538  git commit -m "edited index.html"
+  539  git push origin master
+  540  git checkout v3.0
+  541  git merge master
+  543  git checkout master
+  548  history | grep "git" > history.txt
